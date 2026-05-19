@@ -22,9 +22,9 @@ Can classical univariate time series models adequately capture the dynamics of r
 
 ## Data
 
-The dataset consists of monthly road traffic accident counts from January 2020 to December 2024.
+The repository includes an aggregated monthly dataset derived from publicly available UK Department for Transport road safety statistics.
 
-The data were derived from publicly available road safety statistics published by the UK Department for Transport.
+The original raw collision dataset is not redistributed because of its large file size. The included CSV contains monthly accident counts from January 2020 to December 2024 and is sufficient to reproduce the time series analysis.
 
 ## Key Findings
 
